@@ -1,0 +1,9 @@
+-- how much resolution the cards have
+SCALE = 3
+
+-- how much to cut off around each card (4 to remove the border, 0 to disable)
+SCISSOR = 0
+
+-- leave some border on each side as per the instructions on the printing guys' site
+PRINT_BLEED_VALUE_HOR = 0
+PRINT_BLEED_VALUE_VER = 0
